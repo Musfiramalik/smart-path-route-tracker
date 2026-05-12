@@ -1,4 +1,5 @@
-# Smart Path Route Tracker
+# [requirements.txt](https://github.com/user-attachments/files/27617309/requirements.txt)
+ Smart Path Route Tracker
 
 ##  Project Overview
 Smart Path Route Tracker is a Python-based project that finds the most efficient route between locations using graph algorithms. It simulates real-world traffic conditions and visualizes routes on an interactive map.
@@ -14,7 +15,7 @@ Smart Path Route Tracker is a Python-based project that finds the most efficient
 
 ---
 
-## Technologies Used
+##  Technologies Used
 - Python
 - NetworkX (Graph handling)
 - Folium (Map visualization)
@@ -22,8 +23,8 @@ Smart Path Route Tracker is a Python-based project that finds the most efficient
 
 ---
 
-##  How to Run
-1. Install dependencies:
-pip install -r requirements.txt
+## How to Run
+
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
