@@ -55,7 +55,10 @@ jinja2
 numpy
 requests
 ```
+## Project Output
 
+![Output 1](screenshots/output1.png)
+![Output 2](screenshots/output2.png)
 ---
 
 ## Future Improvements
