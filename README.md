@@ -47,8 +47,6 @@ python main.py
 ---
 
 ## Requirements
- 
-
 ```txt
 networkx
 folium
