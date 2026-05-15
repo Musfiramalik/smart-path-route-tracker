@@ -47,7 +47,7 @@ python main.py
 ---
 
 ## Requirements
-Create a `requirements.txt` file and add:
+ 
 
 ```txt
 networkx
