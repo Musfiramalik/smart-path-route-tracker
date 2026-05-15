@@ -1,5 +1,5 @@
 
- Smart Path Route Tracker
+ ##Smart Path Route Tracker
 
 ##  Project Overview
 Smart Path Route Tracker is a Python-based project that finds the most efficient route between locations using graph algorithms. It simulates real-world traffic conditions and visualizes routes on an interactive map.
