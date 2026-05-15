@@ -1,4 +1,4 @@
-# [requirements.txt](https://github.com/user-attachments/files/27617309/requirements.txt)
+
  Smart Path Route Tracker
 
 ##  Project Overview
