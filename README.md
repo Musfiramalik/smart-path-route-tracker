@@ -56,10 +56,11 @@ numpy
 requests
 ```
 ## Project Output
+<img width="602" height="372" alt="Output" src="https://github.com/user-attachments/assets/37d2f51d-395a-4df0-ac19-56ef70d71d9a" />
+<img width="624" height="306" alt="Output (2)" src="https://github.com/user-attachments/assets/a119fab6-7576-419e-9ea1-751ff46f5382" />
 
-![Output 1](screenshots/output1.png)
-![Output 2](screenshots/output2.png)
----
+
+
 
 ## Future Improvements
 - Real-time GPS integration
